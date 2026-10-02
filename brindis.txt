@@ -1,0 +1,68 @@
+BRINDIS
+Soledad
+===========================
+
+Tono: B
+Sin capo
+
+INTRO
+| B | F# | E  F# | B |
+
+VERSO 1
+"Seguir siguiendo al corazón..."
+| B  | F# |
+| E  F# | B |
+
+"Seguir soñando..."
+| B  | F# |
+| E  F# | B |
+
+PRE
+"Siempre voy detrás..."
+| E F# | B  |
+| C#7  | F# |
+
+VERSO 2
+| B  | F# |
+| E  F# | B |
+
+| B  | F# |
+| E  F# | B |
+
+PRE
+| E F# | B  |
+| C#7  | F# |
+
+ESTRIBILLO
+"Por esos días por venir..."
+| E  | B  |
+| F# | B  |
+
+"Y en esas noches..."
+| E   | B |
+| F#7 | B |
+
+"Me abrazo a mi guitarra..."
+| E   | B |
+| F#7 | B |
+
+PUENTE
+| C#m F# | D#m G# |
+| C#m F# |    B   |
+
+ESTRIBILLO FINAL
+| E  | B  |
+| F# | B  |
+
+| E   | B |
+| F#7 | B |
+
+| E   | B |
+| F#7 | B |
+
+CIERRE
+| E | Em | B |
+
+===========================
+DÚO COKE
+Voz + Guitarra
