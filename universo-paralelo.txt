@@ -1,0 +1,77 @@
+UNIVERSO PARALELO
+Nahuel Pennisi
+===========================
+
+Tono: E
+
+INTRO
+| E | A | Am |
+
+VERSO 1
+"Compraría un palco..."
+| E   | G#m |
+| A   | B   |
+
+"Pero tu estrella..."
+| E   | G#m |
+| A   | B   |
+
+PRE
+"El corazón..."
+| F#m | D |
+| B   | B |
+
+ESTRIBILLO
+"Me daría tal vergüenza..."
+| A   | B   |
+| G#7 | C#m  B |
+
+"Eres el centro del cosmos..."
+| A   | B   |
+| G#7 | C#m  B |
+
+"Que te quiero..."
+| A | B |
+
+VERSO 2
+(misma base)
+
+| E   | G#m |
+| A   | B   |
+
+| E   | G#m |
+| A   | B   |
+
+PRE
+| F#m | D |
+| B   | B |
+
+ESTRIBILLO
+| A   | B   |
+| G#7 | C#m  B |
+
+| A   | B   |
+| G#7 | C#m  B |
+
+| A | B |
+
+ESTRIBILLO FINAL
+"Eres el centro del cosmos..."
+| A   | B   |
+| G#7 | C#m  B |
+
+"Que te quiero..."
+| A | B |
+
+"Mi universo paralelo..."
+| F#m | B |
+| E   | G#m |
+| A   | Am |
+
+OUTRO
+| E | G#m | A | Am |
+| E |
+
+===========================
+DÚO COKE
+Voz + Guitarra
