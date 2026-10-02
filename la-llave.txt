@@ -1,0 +1,67 @@
+LA LLAVE
+Abel Pintos
+===========================
+
+Tono: A
+Sin capo
+
+VERSO 1
+"La soledad se hace carne..."
+| A   | E   |
+| D   | C#7 |
+| F#m | B   |
+| D   | E   |
+
+"El tiempo viste..."
+| A   | E   |
+| D   | C#7 |
+| F#m | B   |
+| D   | E   |
+
+ESTRIBILLO
+"Vas a verme llegar..."
+| A   | E |
+| D   | A |
+| F#m | B |
+| D  E | A |
+
+VERSO 2
+| A   | E   |
+| D   | C#7 |
+| F#m | B   |
+| D   | E   |
+
+| A   | E   |
+| D   | C#7 |
+| F#m | B   |
+| D   | E   |
+
+ESTRIBILLO
+| A   | E |
+| D   | A |
+| F#m | B |
+| D  E | A |
+
+PUENTE
+"Porque puedo callar..."
+| F#m | B |
+| D   | A |
+
+"Porque puedo soñar..."
+| F#m | B |
+| D   | E |
+
+MODULA +1 TONO
+A → B
+
+ESTRIBILLO FINAL
+| B   | F# |
+| E   | B  |
+| G#m | C# |
+| E  F# | B |
+
+x2
+
+===========================
+DÚO COKE
+Voz + Guitarra
